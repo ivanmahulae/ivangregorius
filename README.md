@@ -1,3 +1,5 @@
+![alt text](https://github.com/ivanmahulae/ivanmahulae/blob/main/banner.png?raw=true)
+
 # 👋 Hi, I'm Ivan Mahulae!
 
 I'm a passionate learner who is currently diving into the world of technology, especially in:
