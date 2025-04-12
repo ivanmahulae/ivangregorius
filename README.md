@@ -1,5 +1,3 @@
-![alt text](https://github.com/ivanmahulae/ivanmahulae/blob/main/banner.png?raw=true)
-
 # 👋 Hi, I'm Ivan Mahulae!
 
 I'm a passionate learner who is currently diving into the world of technology, especially in:
@@ -41,3 +39,5 @@ A basic mobile application app to sell and buy toddler equipment.
 ---
 
 > Thanks for stopping by my GitHub profile. Feel free to connect, give feedback, or collaborate with me! ✨
+
+![alt text](https://github.com/ivanmahulae/ivanmahulae/blob/main/banner.png?raw=true)
